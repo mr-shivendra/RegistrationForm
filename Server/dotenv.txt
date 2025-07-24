@@ -1,0 +1,2 @@
+URL='mongodb://198.0.0.3:24563/studentdata'//here you can give your mongodb link so that server will connect to database
+PORT=2012 // here the port you can give where you want to run your server

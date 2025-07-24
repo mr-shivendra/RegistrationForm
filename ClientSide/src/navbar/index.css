@@ -1,0 +1,57 @@
+.nav-parent{
+    position:fixed;
+    background-color: #fff;
+    top:0px;
+    z-index: 1;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    padding:0 10vw;
+    height:9vh;
+    text-align: center;
+    align-items: center;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+
+    & .nav-logo{
+        color:#FE7743;
+        font-variant: small-caps;
+        font-weight: 900;
+        & h2{
+            font-size: 1.8em;
+        }
+        
+    }
+
+    & .nav-buttons{
+        display: flex;
+        justify-content: space-between;
+        gap:5vw;
+
+        & a{
+            text-decoration: none;
+        }
+
+        & h4{
+            font-size: 0.8em;
+            position:relative;
+            cursor:pointer;
+            color: grey;
+            letter-spacing: 2px;
+            font:caption;
+            &:hover:after{
+                width:100% ; 
+            }
+        }
+
+        & h4::after{
+            content:'';
+            border-bottom: 0.16em solid #FE7743;
+            position:absolute;
+            bottom:0px;
+            width:0%;
+            left: 0;
+            transition:all 0.6s linear ;
+        }
+
+    }
+}

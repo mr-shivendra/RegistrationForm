@@ -1,0 +1,33 @@
+.about-parent{
+    width:100vw;
+    padding:2vh 10vw;
+   
+    height:90vh;
+
+    & h3{
+       font-size: 1.6em;
+       font-weight: 800;   
+
+    }
+
+    & p{
+        width:40%;
+        margin:20vh auto;
+        color:grey;
+        font-size: 0.8em;
+        line-height: 1.5vw;
+        column-count:2;
+        text-align:justify;
+        column-rule:0.3vw solid #FE7743;
+       column-gap:4vw;
+    }
+}
+
+
+/* .about_section p{
+    margin:40px auto;
+    column-count:2;
+    text-align:justify;
+    column-rule:2px solid red;
+    column-gap:40px;
+} */

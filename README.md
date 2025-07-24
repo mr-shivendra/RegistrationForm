@@ -1,2 +1,2 @@
 # RegistrationForm
-here we will submit our data and reduce the manually
+Here the registerform made by me and make this happen.
