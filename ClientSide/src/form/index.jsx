@@ -8,7 +8,7 @@ const Form = () => {
     const [studentDatas,setStudentData]=useState([])
     const [detail,setDetail]=useState({
         name:'',
-        email:'',
+        email:'',  
         college:'',
         roll:'',
         course:''
