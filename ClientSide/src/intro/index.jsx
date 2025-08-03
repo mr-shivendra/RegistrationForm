@@ -13,7 +13,7 @@ const Intro = () => {
     <div id='intro' className='intro-parent'>
         <div className="intro-division">
             <h3>Welecome to the <span>Form</span> House</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea, consequatur assumenda. Voluptates dolor blanditiis excepturi exercitationem quo ad nesciunt quidem, laudantium voluptatibus porro praesentium?</p>
+            <p>The main goal is to provide a smooth, secure, and efficient way for new users to join a system, while ensuring their details are correctly captured and safely managed</p>
             <button> <a href="#form-column">Registration</a></button>
         </div>
         <div className="intro-division">

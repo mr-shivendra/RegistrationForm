@@ -55,3 +55,34 @@
 
     }
 }
+
+
+@media (max-width:700px){
+     .nav-buttons{
+        a{
+            font-size:0.2em ;
+        }
+
+     }
+
+     .nav-logo{
+        font-size: 1.3em;
+     }
+}
+
+@media (max-width:550px){
+    .nav-parent{
+        display: grid;
+        grid-template-columns: 1fr;
+
+        & .nav-logo{
+            font-size: 1.8em;
+        }
+
+        & .nav-buttons{
+            gap: 1vw;
+            justify-content: space-around;
+        }
+
+    }
+}
