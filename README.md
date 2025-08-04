@@ -119,6 +119,9 @@ The backend server exposes the following RESTful API endpoints:
 **Project Form**
 [`[(image.png)](https://github.com/mr-shivendra/RegistrationForm/blob/main/image.png?raw=true)
 
+**About Page**
+#[(About)`(https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/AboutPage.png?raw=true)`]
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improving this application, please feel free to fork the repository and create a pull request or open an issue with the "enhancement" tag.
