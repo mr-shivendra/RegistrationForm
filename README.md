@@ -121,6 +121,8 @@ The backend server exposes the following RESTful API endpoints:
 
 **About Page**
 #[(About)`(https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/AboutPage.png?raw=true)`]
+![About Page](https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/AboutPage.png?raw=true)
+
 
 ## Contributing
 
