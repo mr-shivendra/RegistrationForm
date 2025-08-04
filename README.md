@@ -114,13 +114,12 @@ The backend server exposes the following RESTful API endpoints:
  here to get users a visual idea of this project.
 
 **Home Page**
-[(image-1.png)](https://github.com/mr-shivendra/RegistrationForm/blob/main/image-1.png?raw=true)
+![Intro](https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/IntroductionPage.png?raw=true)
 
 **Project Form**
-[`[(image.png)](https://github.com/mr-shivendra/RegistrationForm/blob/main/image.png?raw=true)
+![Form](https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/RegistrationFormPage.png?raw=true)
 
 **About Page**
-#[(About)`(https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/AboutPage.png?raw=true)`]
 ![About Page](https://github.com/mr-shivendra/RegistrationForm/blob/main/ScreenShots/AboutPage.png?raw=true)
 
 
