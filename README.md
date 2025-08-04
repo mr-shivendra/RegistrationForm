@@ -114,10 +114,10 @@ The backend server exposes the following RESTful API endpoints:
  here to get users a visual idea of this project.
 
 **Home Page**
-(image-1.png)
+[(image-1.png)](https://github.com/mr-shivendra/RegistrationForm/blob/main/image-1.png?raw=true)
 
 **Project Form**
-`(image.png)`
+[`[(image.png)](https://github.com/mr-shivendra/RegistrationForm/blob/main/image.png?raw=true)
 
 ## Contributing
 
